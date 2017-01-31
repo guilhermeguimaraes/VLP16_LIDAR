@@ -1,1 +1,0 @@
-LIDAR - Velodyne VLP16
